@@ -1,0 +1,12 @@
+img{max-width: 100%;
+height: auto;}
+
+main{width:90%;
+margin:0 auto;
+overflow:auto;}
+
+section{margin:20px 0;}
+
+aside{float: right;
+width:250px;
+font-style:italic;}
